@@ -1,3 +1,3 @@
 # false-emotion-opinion-target
-paper:Two stage Bert for weibo user false emotion opinion target extraction with weibo content embedding
+paper:TA false emotion opinion target extraction model with two stage BERT and background information fusion
 We will upload codes and dataset after passing the paper review or according to the needs of the review
